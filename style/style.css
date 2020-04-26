@@ -1,0 +1,46 @@
+ .material-icons {
+     vertical-align: bottom;
+ }
+
+ .navbar {
+     background-color: #292929;
+ }
+.navbar-brand{
+background-color: #F5C518;
+ color: #292929 !important;
+ padding-right:.5rem;
+ padding-left:.5rem;
+ border-radius: 8px;
+ font-weight: bold;
+}
+
+ .btn-primary,
+ .btn-primary:hover,
+ .btn-primary:active,
+ .btn-primary:visited,
+ .btn-primary:focus {
+     background-color: #292929 !important;
+     border-color: #292929 !important;
+ }
+
+ .headimag {
+     width: 100%;
+     height: 200px;
+ }
+
+ div#form-box {
+     margin-top: -150px;
+ }
+
+ .search-icon {
+     background-color: #e2e2e2;
+     border-top-left-radius: 10%;
+     border-bottom-left-radius: 10%;
+     padding: .44rem;
+ }
+ .heart:hover {
+     color: red;
+ }
+ .favorite:hover {
+     color: grey;
+ }
